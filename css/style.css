@@ -1,0 +1,5 @@
+.post-link {
+    display: inline-block; /* This makes margin work on inline elements like <a> */
+    margin-bottom: 10px;   /* Adjust the space below the links */
+  }
+  
